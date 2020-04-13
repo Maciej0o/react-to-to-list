@@ -15,7 +15,7 @@ class Search extends React.Component {
   }
 
   static defaultProps = {
-    text: settings.creators.defaultText,
+    text: settings.search.defaultText,
   }
 
   state = {
