@@ -10,6 +10,7 @@ export const settings = {
   defaultColumnIcon: 'list-alt',
   search: {
     defaultText: '',
+    icon: 'search',
   },
 };
 
